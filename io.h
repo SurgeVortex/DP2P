@@ -5,6 +5,7 @@ class IO
 {
 public:
     IO();
+    ~IO();
 };
 
 #endif // IO_H
